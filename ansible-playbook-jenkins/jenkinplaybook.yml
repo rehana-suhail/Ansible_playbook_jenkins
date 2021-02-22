@@ -1,0 +1,5 @@
+---
+- hosts: prod
+  roles:
+   - java8
+   - jenkins
